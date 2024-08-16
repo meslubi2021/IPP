@@ -1,2 +1,2 @@
 # IPP
-This is InternetPlaysPokemon's backend.
+This is InternetPlaysPokemon's backend
